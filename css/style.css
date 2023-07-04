@@ -21,10 +21,39 @@ body {
 }
 
 .head a {
-  margin: 20px;
+  margin: 22px;
 
   text-decoration: none;
-  color: white;
+  color: rgba(255, 255, 255, 0.853);
   font-size: 17px;
 }
+.head a:hover {
+  color: white;
+}
 
+
+.weather {
+  display: flex;
+  flex-direction: row;
+}
+.weather img{
+  height: 36px;
+  margin-top: 20px;
+}
+.weather-text{
+  color: white;
+  margin-right: 22px;
+  margin-left: 7px;
+}
+.weather-text p,h1{
+  margin: 0;
+}
+.weather-text h1 {
+  font-size: 29px;
+}
+.weather-text p {
+  font-size: 15px;
+}
+.weather-text{
+  margin-top: 20px;
+}
