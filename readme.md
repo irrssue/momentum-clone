@@ -2,7 +2,7 @@ this is the [momentumdash.com](https://momentumdash.com) website clone that I ma
 
 **resources**
 
-- background image- [cool backgrounds.io](https://coolbackgrounds.io)
+- background image- [unsplash](https://unsplash.com/photos/XgeZu2jBaVI)
 - fonts - [Open Sans](https://fonts.google.com/specimen/Open+Sans)
 - weather icon - [flaticons-weather](https://www.flaticon.com/free-icon/cloudy_1462821?term=weather&page=1&position=1&origin=search&related_id=1462821)
 - google icon - [flaticon-google](https://www.flaticon.com/search?word=google)
