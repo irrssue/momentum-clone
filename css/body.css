@@ -5,4 +5,22 @@
   justify-content: center;
 }
 
-.main-body 
+.main-body{
+  color: white;
+}
+
+.main-body h1 {
+  font-size: 135px;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.main-body p {
+  font-size: 50px;
+  text-align: center;
+  margin: 0;
+}
+
+.main-body p span {
+  white-space: nowrap;
+}
