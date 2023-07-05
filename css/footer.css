@@ -1,0 +1,19 @@
+.footer {
+  display: flex;
+  flex-direction: row;
+
+  align-items: end;
+
+  padding: 22px;
+
+  color: black;
+}
+
+.footer img {
+  height: 28px;
+  margin-right: 10px;
+}
+
+.footer p {
+  align-items: center;
+}
